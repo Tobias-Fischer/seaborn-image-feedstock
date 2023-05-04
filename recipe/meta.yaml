@@ -29,6 +29,7 @@ requirements:
     - pooch
     - scikit-image >=0.17.2
     - scipy
+    - numpy
 
 test:
   imports:
